@@ -41,7 +41,7 @@ This project demonstrates a simple **load balancer** using Node.js's `cluster` m
 
 1. Start the application:
    ```bash
-   node app.js
+   node load.js
    ```
 
 2. Open your browser or use `curl` to test the endpoints:
@@ -100,7 +100,7 @@ This project demonstrates a simple **load balancer** using Node.js's `cluster` m
 ## **Project Structure**
 ```
 your-repo/
-├── app.js                # Main application file
+├── load.js                # Main application file
 ├── README.md             # Project documentation
 └── package.json          # NPM dependencies and scripts
 ```
